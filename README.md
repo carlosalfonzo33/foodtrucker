@@ -5,10 +5,11 @@ App that will show you the location of nearby Food trucks in San Francisco that 
 ## Examples
 
 **Food Truck View**
-![Foodtruckview](examples/foodtruckview.jpg)
+![foodtruckview](https://user-images.githubusercontent.com/25913749/31064639-43da3d26-a6f3-11e7-960c-3f11b9a2aa5b.jpg)
 
 **Saved Trucks View**
-![Savedview](examples/savedview.jpg)
+![savedview](https://user-images.githubusercontent.com/25913749/31064641-48af6ec0-a6f3-11e7-8562-2443f9b2bdcd.jpg)
+
 
 ## Technologies used
 
